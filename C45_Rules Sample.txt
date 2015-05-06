@@ -1,0 +1,141 @@
+If fathers education is >= 3,
+ If fathers education is >= 4,
+  If past failures is false,
+   If mothers education is >= 4,
+    If school educational support is yes,
+     If absences > 4 is true,
+      Then g3 is fail, with usefulness measure 100.00%.
+     If absences > 4 is false,
+      Then g3 is pass, with usefulness measure 100.00%.
+    If school educational support is no,
+     If fathers job is at home,
+      If social frequency is high,
+       Then g3 is pass, with usefulness measure 100.00%.
+      If social frequency is normal,
+       Then g3 is fail, with usefulness measure 100.00%.
+     If fathers job is other,
+      If quality of family relationship is bad,
+       Then g3 is fail, with usefulness measure 100.00%.
+      If quality of family relationship is excellent,
+       Then g3 is pass, with usefulness measure 100.00%.
+      If quality of family relationship is very bad,
+       Then g3 is pass, with usefulness measure 100.00%.
+      If quality of family relationship is normal,
+       Then g3 is pass, with usefulness measure 100.00%.
+      If quality of family relationship is good,
+       Then g3 is pass, with usefulness measure 100.00%.
+     If fathers job is services,
+      If health status is excellent,
+       Then g3 is pass, with usefulness measure 100.00%.
+      If health status is normal,
+       If extra paid classes is yes,
+        Then g3 is fail, with usefulness measure 100.00%.
+       If extra paid classes is no,
+        Then g3 is pass, with usefulness measure 100.00%.
+      If health status is bad,
+       Then g3 is pass, with usefulness measure 100.00%.
+      If health status is good,
+       Then g3 is fail, with usefulness measure 100.00%.
+     If fathers job is health,
+      If weekend alcohol consumption is low,
+       Then g3 is fail, with usefulness measure 100.00%.
+      If weekend alcohol consumption is very low,
+       Then g3 is pass, with usefulness measure 100.00%.
+      If weekend alcohol consumption is very high,
+       Then g3 is fail, with usefulness measure 100.00%.
+     If fathers job is teacher,
+      If higher education planned is no,
+       Then g3 is fail, with usefulness measure 100.00%.
+      If higher education planned is yes,
+       Then g3 is pass, with usefulness measure 100.00%.
+   If mothers education is < 4,
+    If mothers education is >= 3,
+     If mothers job is other,
+      Then g3 is pass, with usefulness measure 100.00%.
+     If mothers job is at home,
+      If attended nursery school is yes,
+       Then g3 is fail, with usefulness measure 100.00%.
+      If attended nursery school is no,
+       Then g3 is pass, with usefulness measure 100.00%.
+     If mothers job is services,
+      Then g3 is pass, with usefulness measure 100.00%.
+    If mothers education is < 3,
+     If study time is 5-10hrs,
+      If freetime is normal,
+       Then g3 is fail, with usefulness measure 100.00%.
+      If freetime is high,
+       Then g3 is pass, with usefulness measure 100.00%.
+     If study time is 2-5hrs,
+      Then g3 is pass, with usefulness measure 100.00%.
+  If past failures is true,
+   If primary guardian is other,
+    If travel time is 15-30min,
+     Then g3 is fail, with usefulness measure 100.00%.
+    If travel time is <15min,
+     Then g3 is pass, with usefulness measure 100.00%.
+   If primary guardian is mother,
+    If in romantic relationship is yes,
+     Then g3 is fail, with usefulness measure 100.00%.
+    If in romantic relationship is no,
+     Then g3 is pass, with usefulness measure 100.00%.
+   If primary guardian is father,
+    Then g3 is fail, with usefulness measure 100.00%.
+ If fathers education is < 4,
+  If mothers education is >= 4,
+   If workday alcohol consumption is high,
+    Then g3 is fail, with usefulness measure 100.00%.
+   If workday alcohol consumption is very low,
+    If reason school was chosen is course,
+     If address is urban,
+      If family educational support is no,
+       Then g3 is pass, with usefulness measure 66.67%.
+      If family educational support is yes,
+       If sex is m,
+        If extra-curricular activities is no,
+         Then g3 is fail, with usefulness measure 66.67%.
+        If extra-curricular activities is yes,
+         Then g3 is pass, with usefulness measure 100.00%.
+       If sex is f,
+        If parents apart is true,
+         If family size is <=3,
+          Then g3 is fail, with usefulness measure 100.00%.
+         If family size is >3,
+          Then g3 is pass, with usefulness measure 100.00%.
+        If parents apart is false,
+         Then g3 is fail, with usefulness measure 66.67%.
+     If address is rural,
+      Then g3 is pass, with usefulness measure 100.00%.
+    If reason school was chosen is close,
+     If school is gabriel pereira,
+      Then g3 is pass, with usefulness measure 80.00%.
+     If school is mousinho do silveira,
+      Then g3 is pass, with usefulness measure 100.00%.
+    If reason school was chosen is other,
+     Then g3 is pass, with usefulness measure 100.00%.
+    If reason school was chosen is reputation,
+     Then g3 is pass, with usefulness measure 91.67%.
+   If workday alcohol consumption is low,
+    Then g3 is fail, with usefulness measure 66.67%.
+  If mothers education is < 4,
+   If mothers education is >= 3,
+    If home internet access is yes,
+     Then g3 is pass, with usefulness measure 65.63%.
+    If home internet access is no,
+     Then g3 is pass, with usefulness measure 66.67%.
+   If mothers education is < 3,
+    Then g3 is pass, with usefulness measure 68.18%.
+If fathers education is < 3,
+ If fathers education is >= 2,
+  If mothers education is >= 3,
+   If mothers education is >= 4,
+    Then g3 is pass, with usefulness measure 89.47%.
+   If mothers education is < 4,
+    Then g3 is pass, with usefulness measure 64.29%.
+  If mothers education is < 3,
+   Then g3 is pass, with usefulness measure 61.76%.
+ If fathers education is < 2,
+  If mothers education is >= 2,
+   Then g3 is pass, with usefulness measure 60.00%.
+  If mothers education is < 2,
+   Then g3 is pass, with usefulness measure 56.41%.
+

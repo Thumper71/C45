@@ -1,0 +1,396 @@
+school,sex,address,family size,parents apart,mothers education,fathers education,mothers job,fathers job,reason school was chosen,primary guardian,travel time,study time,past failures,school educational support,family educational support,extra paid classes,extra-curricular activities,attended nursery school,higher education planned,home internet access,in romantic relationship,quality of family relationship,freetime,social frequency,workday alcohol consumption,weekend alcohol consumption,health status,absences > 4,G3
+Gabriel Pereira,F,urban,>3,TRUE,4,4,at home,teacher,course,mother,15-30min,2-5hrs,FALSE,yes,no,no,no,yes,yes,no,no,good,normal,high,very low,very low,normal,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,1,1,at home,other,course,father,<15min,2-5hrs,FALSE,no,yes,no,no,no,yes,yes,no,excellent,normal,normal,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,1,1,at home,other,other,mother,<15min,2-5hrs,TRUE,yes,no,yes,no,yes,yes,yes,no,good,normal,low,low,normal,normal,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,2,health,services,close,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,normal,low,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,3,other,other,close,father,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,no,no,good,normal,low,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,3,services,other,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,high,low,very low,low,excellent,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,2,2,other,other,close,mother,<15min,2-5hrs,FALSE,no,no,no,no,yes,yes,yes,no,good,high,high,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,4,4,other,teacher,close,mother,15-30min,2-5hrs,FALSE,yes,yes,no,no,yes,yes,no,no,good,very low,high,very low,very low,very bad,TRUE,Fail
+Gabriel Pereira,M,urban,<=3,TRUE,3,2,services,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,low,low,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,4,other,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,very high,very low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,teacher,health,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,normal,normal,normal,very low,low,bad,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,1,services,other,reputation,father,30-60min,5-10hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,excellent,low,low,very low,very low,good,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,4,health,services,course,father,<15min,<2hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,normal,normal,very low,normal,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,3,teacher,other,course,mother,15-30min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,excellent,high,normal,very low,low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,TRUE,2,2,other,other,close,other,<15min,5-10hrs,FALSE,no,yes,no,no,yes,yes,yes,yes,good,very high,low,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,health,other,close,mother,<15min,<2hrs,FALSE,no,yes,no,no,yes,yes,yes,no,good,high,high,very low,low,bad,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,services,services,reputation,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,normal,low,normal,very low,low,bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,3,other,other,reputation,mother,30-60min,2-5hrs,FALSE,yes,yes,no,yes,yes,yes,no,no,excellent,normal,low,very low,very low,good,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,2,services,services,course,mother,<15min,<2hrs,TRUE,no,yes,no,yes,yes,yes,yes,no,excellent,very high,very high,low,high,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,4,3,health,other,close,father,<15min,<2hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,normal,very low,normal,very low,normal,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,3,teacher,other,reputation,mother,<15min,2-5hrs,FALSE,no,no,no,no,yes,yes,yes,no,good,high,very low,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,health,health,other,father,<15min,<2hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,excellent,high,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,2,teacher,other,course,mother,<15min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,no,good,very high,very low,very low,normal,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,2,2,other,other,reputation,mother,15-30min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,excellent,high,high,low,high,excellent,FALSE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,2,4,services,health,course,mother,<15min,5-10hrs,FALSE,yes,yes,yes,yes,yes,yes,yes,no,good,normal,low,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,2,services,services,close,mother,<15min,<2hrs,TRUE,no,yes,yes,no,no,yes,yes,no,very bad,low,low,very low,normal,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,2,2,other,other,close,mother,<15min,<2hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,low,low,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,2,health,services,other,mother,<15min,<2hrs,FALSE,no,no,yes,no,yes,yes,yes,no,bad,low,high,low,high,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,TRUE,3,4,services,other,close,mother,<15min,2-5hrs,FALSE,yes,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,teacher,teacher,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,high,very high,very high,very high,excellent,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,health,services,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,no,yes,yes,no,excellent,high,low,normal,high,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,services,services,reputation,mother,15-30min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,good,normal,very low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,4,3,teacher,at home,course,mother,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,yes,good,very high,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,3,3,other,other,course,mother,<15min,2-5hrs,FALSE,no,no,no,yes,no,yes,yes,no,excellent,normal,low,very low,very low,bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,2,other,other,close,mother,<15min,<2hrs,FALSE,no,yes,yes,no,no,yes,yes,no,excellent,high,normal,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,3,other,other,other,father,15-30min,<2hrs,FALSE,no,yes,no,yes,yes,yes,no,no,normal,very high,very low,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,4,3,teacher,services,close,mother,<15min,5-10hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,excellent,high,normal,very low,very low,good,FALSE,Pass
+Gabriel Pereira,M,rural,>3,TRUE,4,4,other,teacher,reputation,mother,15-30min,5-10hrs,FALSE,no,yes,no,yes,yes,yes,yes,yes,bad,high,normal,very low,very low,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,3,4,services,health,course,mother,<15min,5-10hrs,FALSE,yes,yes,yes,yes,yes,yes,yes,no,good,normal,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,2,2,at home,other,reputation,mother,<15min,<2hrs,FALSE,yes,yes,yes,yes,yes,yes,no,no,good,normal,very low,very low,very low,bad,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,2,2,other,other,close,mother,15-30min,2-5hrs,TRUE,no,yes,no,yes,no,yes,yes,yes,normal,normal,normal,very low,low,normal,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,4,teacher,other,close,other,<15min,<2hrs,FALSE,no,yes,no,no,no,yes,yes,yes,excellent,high,normal,low,high,excellent,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,services,teacher,course,father,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,2,services,services,course,father,<15min,<2hrs,FALSE,yes,yes,no,no,yes,yes,yes,no,excellent,high,very low,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,2,2,other,at home,course,father,15-30min,2-5hrs,TRUE,yes,no,no,yes,yes,yes,yes,no,good,normal,normal,low,low,excellent,TRUE,Fail
+Gabriel Pereira,F,urban,<=3,TRUE,4,3,other,other,course,mother,<15min,2-5hrs,FALSE,yes,yes,yes,yes,yes,yes,yes,yes,excellent,low,low,very low,very low,excellent,TRUE,Fail
+Gabriel Pereira,F,urban,<=3,TRUE,3,3,other,services,close,mother,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,yes,no,bad,normal,very high,very low,high,normal,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,3,health,services,reputation,mother,<15min,>10hrs,FALSE,no,no,no,yes,yes,yes,yes,no,good,low,low,very low,very low,bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,2,teacher,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,no,no,good,normal,normal,low,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,services,teacher,other,father,<15min,2-5hrs,TRUE,yes,yes,no,yes,no,yes,yes,no,good,high,high,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,2,2,services,services,course,mother,30-60min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,normal,low,normal,good,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,4,2,health,other,other,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,normal,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,TRUE,4,2,health,health,other,father,15-30min,<2hrs,TRUE,no,no,no,no,yes,yes,no,no,excellent,very high,very high,normal,high,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,services,services,course,mother,<15min,<2hrs,FALSE,yes,yes,yes,no,yes,yes,yes,no,normal,normal,high,low,normal,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,TRUE,3,3,other,other,other,mother,<15min,<2hrs,FALSE,no,no,yes,no,yes,yes,yes,no,excellent,normal,high,high,high,very bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,2,1,other,other,other,mother,<15min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,yes,excellent,normal,high,very low,very low,bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,4,3,services,services,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,normal,low,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,teacher,health,reputation,mother,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,no,no,normal,low,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,1,2,other,at home,close,father,<15min,2-5hrs,FALSE,yes,yes,no,yes,yes,yes,yes,no,good,normal,low,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,2,services,other,course,mother,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,yes,no,good,low,normal,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,4,4,health,teacher,other,mother,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,no,no,bad,high,high,low,normal,good,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,1,services,services,course,father,>60min,<2hrs,FALSE,yes,yes,no,yes,no,yes,yes,yes,excellent,very high,very high,very high,very high,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,1,2,other,services,reputation,father,<15min,2-5hrs,FALSE,yes,no,no,yes,yes,yes,yes,no,good,high,normal,very low,very low,very bad,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,3,teacher,health,close,mother,<15min,5-10hrs,FALSE,yes,yes,yes,yes,yes,yes,yes,no,normal,high,high,low,high,good,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,4,3,services,services,reputation,father,<15min,2-5hrs,FALSE,yes,no,no,yes,yes,yes,yes,yes,good,high,high,low,high,bad,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,4,3,teacher,services,course,mother,30-60min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,excellent,high,normal,very low,low,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,TRUE,4,4,other,services,reputation,mother,<15min,>10hrs,FALSE,no,yes,no,yes,no,yes,yes,yes,very bad,normal,normal,very high,very high,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,1,services,other,course,mother,<15min,>10hrs,FALSE,yes,yes,yes,no,yes,yes,yes,no,good,normal,normal,very low,low,excellent,FALSE,Fail
+Gabriel Pereira,F,rural,<=3,FALSE,2,2,health,services,reputation,mother,15-30min,2-5hrs,FALSE,yes,yes,yes,no,yes,yes,yes,no,good,very low,normal,very low,normal,good,FALSE,Fail
+Gabriel Pereira,F,rural,<=3,FALSE,3,1,other,other,reputation,father,15-30min,>10hrs,FALSE,no,yes,no,no,no,yes,yes,no,good,high,low,low,normal,normal,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,1,other,other,reputation,father,15-30min,>10hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,2,other,other,course,mother,<15min,>10hrs,FALSE,no,no,no,no,yes,yes,yes,no,normal,normal,normal,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,1,1,other,other,reputation,mother,<15min,2-5hrs,TRUE,yes,yes,no,no,no,yes,yes,yes,normal,normal,high,low,high,excellent,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,3,1,other,other,reputation,mother,<15min,<2hrs,FALSE,no,no,no,yes,yes,yes,no,no,excellent,normal,low,low,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,3,other,services,close,mother,<15min,2-5hrs,FALSE,yes,yes,yes,yes,yes,yes,yes,no,good,normal,normal,low,high,excellent,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,3,teacher,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,normal,normal,low,normal,excellent,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,0,teacher,other,course,mother,15-30min,>10hrs,FALSE,no,no,no,yes,yes,yes,yes,no,normal,high,normal,very low,very low,very bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,2,other,other,reputation,mother,<15min,>10hrs,FALSE,no,no,yes,no,yes,yes,yes,yes,excellent,low,normal,very low,normal,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,1,other,other,close,mother,15-30min,<2hrs,TRUE,yes,yes,no,yes,yes,no,yes,no,good,very high,very low,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,4,at home,other,course,mother,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,yes,no,bad,high,normal,very low,low,normal,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,2,3,other,services,course,father,<15min,<2hrs,FALSE,yes,yes,yes,yes,no,yes,yes,yes,normal,low,low,very low,normal,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,3,other,other,close,mother,<15min,5-10hrs,FALSE,yes,no,yes,no,no,yes,yes,no,excellent,normal,low,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,3,2,services,other,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,high,high,very low,very low,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,2,2,services,services,close,mother,15-30min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,excellent,normal,normal,very low,normal,good,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,1,other,other,close,father,<15min,2-5hrs,FALSE,no,yes,no,yes,no,yes,yes,no,good,normal,low,low,normal,good,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,services,services,reputation,father,15-30min,2-5hrs,TRUE,no,no,yes,no,yes,yes,yes,yes,good,high,high,low,normal,excellent,TRUE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,2,2,at home,other,course,mother,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,no,no,good,normal,high,very low,low,bad,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,2,other,other,reputation,mother,<15min,5-10hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,normal,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,2,services,other,reputation,father,15-30min,2-5hrs,TRUE,no,no,yes,yes,no,yes,yes,no,good,high,low,very low,very low,normal,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,TRUE,4,4,teacher,health,reputation,mother,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,no,no,good,very low,normal,normal,very high,excellent,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,3,3,other,other,close,mother,<15min,5-10hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,good,normal,normal,very low,normal,good,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,3,services,other,reputation,mother,<15min,<2hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,good,very high,very high,very low,normal,very bad,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,3,1,other,other,close,father,<15min,2-5hrs,FALSE,yes,yes,no,no,yes,yes,no,no,normal,normal,normal,low,normal,bad,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,2,teacher,services,close,mother,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,2,2,services,health,reputation,mother,<15min,>10hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,good,normal,high,very low,very low,good,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,1,1,at home,other,close,mother,15-30min,>10hrs,TRUE,yes,yes,yes,yes,yes,yes,yes,no,normal,very low,low,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,4,3,services,other,reputation,mother,15-30min,<2hrs,FALSE,yes,yes,no,yes,no,yes,yes,no,normal,normal,normal,very low,very low,good,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,1,other,other,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,no,yes,good,normal,very high,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,other,other,reputation,mother,<15min,<2hrs,FALSE,no,no,no,yes,no,yes,yes,no,excellent,normal,high,very low,low,very bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,3,other,at home,course,mother,<15min,5-10hrs,FALSE,yes,yes,yes,no,yes,yes,yes,no,excellent,normal,very high,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,4,4,services,services,other,mother,<15min,<2hrs,FALSE,yes,yes,yes,yes,yes,yes,yes,no,good,very high,very high,very high,very high,good,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,4,4,services,teacher,other,father,<15min,5-10hrs,FALSE,no,yes,no,yes,yes,yes,yes,yes,good,high,normal,very low,very low,good,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,services,other,course,mother,<15min,<2hrs,FALSE,no,yes,no,yes,no,yes,yes,no,excellent,normal,normal,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,2,services,other,close,mother,15-30min,2-5hrs,FALSE,yes,yes,yes,no,yes,yes,yes,no,good,normal,very high,very low,very low,bad,TRUE,Fail
+Gabriel Pereira,M,urban,>3,TRUE,3,4,services,other,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,high,high,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,3,3,other,health,reputation,father,<15min,>10hrs,FALSE,yes,no,no,no,yes,yes,no,no,good,normal,normal,very low,very low,good,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,2,other,other,course,mother,<15min,>10hrs,FALSE,yes,yes,yes,no,yes,yes,yes,no,excellent,very low,low,very low,very low,normal,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,3,3,services,other,close,father,<15min,5-10hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,4,4,other,other,close,father,>60min,>10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,very bad,normal,very high,normal,very high,very bad,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,4,4,health,health,other,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,excellent,high,very high,very low,very low,good,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,TRUE,4,4,teacher,teacher,course,mother,<15min,<2hrs,FALSE,no,no,no,yes,yes,yes,yes,no,excellent,very high,normal,very low,very low,good,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,3,3,services,other,reputation,father,<15min,5-10hrs,TRUE,yes,yes,no,yes,yes,yes,yes,no,good,very low,low,very low,very low,bad,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,2,at home,other,close,mother,<15min,2-5hrs,TRUE,yes,no,no,yes,yes,yes,yes,no,normal,very low,low,very low,very low,excellent,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,2,teacher,other,course,mother,<15min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,normal,very high,low,very low,very low,normal,TRUE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,2,1,health,services,reputation,mother,<15min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,yes,excellent,high,low,very low,very low,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,4,4,teacher,teacher,course,father,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,excellent,high,high,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,other,teacher,reputation,father,15-30min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,no,no,good,high,normal,very low,very low,bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,3,other,services,close,father,15-30min,<2hrs,FALSE,no,no,no,yes,yes,yes,yes,no,excellent,high,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,1,3,other,other,course,father,30-60min,2-5hrs,TRUE,no,yes,no,yes,yes,yes,yes,no,excellent,low,high,very low,high,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,3,4,other,other,reputation,father,<15min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,normal,high,normal,very low,low,good,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,2,at home,services,course,mother,<15min,2-5hrs,FALSE,no,no,no,no,no,yes,yes,no,normal,low,normal,very low,low,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,2,services,services,close,father,<15min,>10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,very high,high,very low,low,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,2,4,other,health,course,father,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,low,low,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,health,other,course,mother,<15min,<2hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,normal,high,high,very low,high,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,2,other,other,close,mother,<15min,2-5hrs,FALSE,no,no,yes,no,yes,yes,yes,yes,excellent,high,high,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,3,4,services,services,close,father,<15min,<2hrs,FALSE,yes,no,no,no,yes,yes,yes,no,excellent,very high,very high,normal,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,TRUE,3,4,other,other,close,mother,<15min,2-5hrs,FALSE,yes,no,no,yes,yes,yes,yes,yes,excellent,normal,low,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,0,1,at home,other,course,other,<15min,2-5hrs,TRUE,no,yes,no,no,no,no,no,no,normal,high,low,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,2,2,services,other,reputation,mother,<15min,<2hrs,TRUE,no,yes,no,yes,yes,yes,yes,no,normal,normal,normal,very low,low,good,FALSE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,4,4,teacher,teacher,course,mother,<15min,<2hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,normal,very high,very high,low,very high,good,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,3,4,services,teacher,course,father,15-30min,5-10hrs,TRUE,no,yes,no,no,yes,yes,yes,yes,good,low,low,low,low,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,1,1,at home,other,course,mother,30-60min,<2hrs,FALSE,no,yes,no,yes,no,yes,yes,yes,good,normal,normal,very low,low,good,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,2,2,other,other,course,father,<15min,<2hrs,FALSE,no,yes,no,no,yes,yes,yes,yes,normal,high,high,very low,normal,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,3,4,services,other,course,father,<15min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,normal,low,very low,very low,high,excellent,TRUE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,3,4,at home,teacher,course,mother,>60min,2-5hrs,FALSE,no,yes,no,no,yes,yes,no,yes,excellent,normal,normal,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,4,services,at home,course,mother,<15min,5-10hrs,FALSE,no,yes,no,yes,yes,yes,yes,yes,good,normal,normal,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,3,4,at home,other,course,mother,30-60min,2-5hrs,FALSE,no,no,no,no,yes,yes,no,no,excellent,high,very high,low,high,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,TRUE,3,3,other,other,course,other,15-30min,<2hrs,TRUE,no,yes,no,yes,no,yes,yes,yes,good,normal,low,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,1,1,services,other,course,mother,<15min,2-5hrs,TRUE,no,no,no,no,yes,yes,no,yes,good,high,high,very low,normal,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,teacher,teacher,course,mother,15-30min,<2hrs,FALSE,no,no,no,yes,yes,yes,yes,no,good,normal,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,3,teacher,services,course,father,15-30min,>10hrs,FALSE,yes,yes,no,no,yes,yes,yes,no,bad,low,low,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,2,2,services,services,reputation,father,15-30min,<2hrs,TRUE,no,yes,no,yes,yes,yes,yes,no,bad,normal,normal,low,low,bad,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,4,teacher,services,course,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,low,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,1,1,at home,at home,course,mother,<15min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,normal,high,high,normal,normal,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,1,other,other,close,mother,<15min,<2hrs,TRUE,no,yes,no,no,yes,yes,yes,no,excellent,high,very high,very low,low,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,1,1,other,services,course,father,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,high,low,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,2,health,services,close,father,<15min,2-5hrs,TRUE,no,yes,no,no,yes,yes,yes,no,normal,normal,low,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,1,2,at home,other,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,no,yes,yes,no,good,normal,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,teacher,teacher,course,mother,<15min,<2hrs,FALSE,no,yes,no,no,yes,no,yes,yes,normal,normal,low,low,very low,excellent,FALSE,Fail
+Gabriel Pereira,M,urban,<=3,TRUE,2,1,services,other,course,mother,>60min,<2hrs,TRUE,no,no,no,no,yes,yes,yes,no,good,very high,very high,low,very high,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,1,1,other,other,course,mother,<15min,<2hrs,TRUE,no,no,no,no,yes,no,yes,yes,bad,normal,very high,low,very high,good,FALSE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,2,1,at home,other,course,mother,<15min,<2hrs,TRUE,no,no,no,yes,yes,yes,no,yes,good,high,high,normal,very high,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,3,3,services,services,reputation,other,15-30min,5-10hrs,TRUE,no,yes,yes,yes,yes,yes,yes,yes,good,low,very low,low,normal,normal,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,2,services,at home,close,mother,<15min,<2hrs,TRUE,no,yes,no,no,yes,no,yes,yes,good,very high,high,very low,very low,good,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,4,other,teacher,course,mother,<15min,<2hrs,FALSE,yes,yes,no,no,yes,yes,no,yes,good,low,very low,very low,very low,good,FALSE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,2,3,at home,services,course,mother,<15min,2-5hrs,FALSE,yes,no,yes,yes,yes,yes,no,no,good,high,high,very low,very low,very bad,FALSE,Fail
+Gabriel Pereira,M,rural,<=3,FALSE,1,2,other,other,reputation,mother,<15min,<2hrs,FALSE,no,no,no,no,yes,yes,no,no,bad,low,low,normal,normal,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,1,1,at home,other,course,mother,30-60min,<2hrs,TRUE,no,yes,no,yes,no,yes,no,no,excellent,low,very high,very low,very high,good,TRUE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,2,2,at home,other,course,mother,30-60min,<2hrs,FALSE,no,no,no,no,no,yes,no,no,good,low,low,very low,low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,3,other,services,course,father,<15min,2-5hrs,TRUE,no,yes,yes,no,yes,yes,yes,yes,good,very high,very high,high,high,excellent,FALSE,Pass
+Gabriel Pereira,M,rural,<=3,FALSE,2,1,at home,other,course,mother,15-30min,<2hrs,TRUE,no,no,no,yes,yes,no,yes,yes,normal,normal,low,low,low,excellent,FALSE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,3,2,other,other,course,mother,15-30min,2-5hrs,TRUE,yes,yes,no,no,yes,yes,yes,yes,good,high,high,very low,high,normal,TRUE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,1,2,other,other,course,mother,15-30min,<2hrs,TRUE,no,no,no,yes,yes,yes,no,no,good,high,high,low,high,excellent,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,1,3,at home,services,course,father,<15min,<2hrs,FALSE,no,no,no,no,yes,no,yes,no,excellent,normal,normal,very low,high,bad,FALSE,Pass
+Gabriel Pereira,M,rural,<=3,FALSE,1,1,other,services,course,mother,>60min,2-5hrs,TRUE,no,no,no,yes,yes,no,no,yes,excellent,normal,very high,very low,very high,excellent,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,3,2,services,services,course,mother,15-30min,<2hrs,TRUE,no,yes,no,yes,no,no,no,no,good,very high,low,very low,very low,bad,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,2,other,other,course,father,<15min,2-5hrs,FALSE,no,no,no,no,yes,no,yes,no,good,normal,very high,low,high,good,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,2,health,services,close,father,<15min,2-5hrs,FALSE,no,no,yes,no,yes,yes,yes,yes,good,low,normal,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,2,other,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,no,yes,yes,no,excellent,very low,very high,very low,very low,good,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,4,health,health,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,good,high,low,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,4,other,other,course,father,30-60min,<2hrs,TRUE,no,yes,no,yes,no,yes,yes,no,normal,high,very high,low,high,bad,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,1,0,other,other,reputation,mother,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,normal,low,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,4,teacher,other,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,high,high,very low,normal,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,3,at home,services,close,mother,<15min,2-5hrs,TRUE,no,no,no,yes,no,yes,yes,yes,good,normal,very high,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,3,3,other,other,reputation,mother,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,high,very high,very low,very low,good,FALSE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,4,3,teacher,other,course,mother,15-30min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,good,high,high,high,high,good,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,2,services,other,reputation,mother,15-30min,2-5hrs,FALSE,no,no,yes,yes,no,yes,yes,no,normal,high,high,very low,high,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,3,other,other,reputation,father,<15min,2-5hrs,FALSE,no,no,no,yes,no,yes,yes,no,good,normal,high,very low,high,good,FALSE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,4,2,teacher,services,other,mother,<15min,<2hrs,FALSE,no,yes,no,yes,yes,yes,yes,yes,good,normal,normal,normal,high,normal,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,4,3,other,other,course,mother,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,yes,excellent,low,normal,very low,very low,bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,3,teacher,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,normal,high,normal,low,normal,normal,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,3,3,services,other,close,mother,<15min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,yes,good,low,normal,very low,low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,4,services,services,reputation,father,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,no,no,excellent,high,low,low,normal,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,3,3,other,other,reputation,mother,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,yes,excellent,normal,normal,low,normal,very bad,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,3,2,other,other,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,very bad,low,low,very low,low,very bad,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,3,services,services,other,mother,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,yes,good,normal,high,low,normal,good,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,1,2,services,services,other,mother,<15min,<2hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,normal,normal,normal,very low,low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,2,1,other,other,course,mother,<15min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,yes,good,low,normal,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,3,3,health,other,reputation,mother,<15min,2-5hrs,FALSE,no,yes,no,no,no,yes,yes,yes,normal,normal,normal,very low,normal,normal,TRUE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,1,2,at home,other,close,mother,<15min,2-5hrs,FALSE,no,no,no,no,yes,yes,no,no,normal,very low,normal,very low,very high,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,3,services,services,course,mother,<15min,2-5hrs,FALSE,no,no,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,1,at home,services,course,mother,<15min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,no,excellent,normal,normal,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,1,2,at home,services,other,other,15-30min,2-5hrs,FALSE,no,no,yes,yes,no,yes,yes,no,good,high,high,high,very high,excellent,TRUE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,3,3,services,services,reputation,mother,<15min,<2hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,good,normal,low,normal,high,excellent,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,3,other,other,close,father,15-30min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,excellent,normal,normal,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,2,4,services,services,course,father,<15min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,yes,good,normal,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,services,teacher,close,mother,<15min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,excellent,low,normal,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,M,rural,<=3,FALSE,3,3,teacher,other,close,father,30-60min,<2hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,normal,normal,high,normal,very high,normal,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,services,teacher,close,mother,15-30min,<2hrs,TRUE,no,yes,no,no,yes,yes,yes,no,good,low,high,low,normal,bad,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,4,4,teacher,teacher,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,very high,low,very low,low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,3,health,other,close,mother,<15min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,good,normal,very high,very low,very high,bad,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,3,other,other,reputation,mother,<15min,2-5hrs,FALSE,yes,yes,yes,yes,yes,yes,no,no,good,high,normal,very low,normal,good,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,1,other,other,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,no,yes,no,no,good,high,high,very low,normal,very bad,FALSE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,2,2,other,other,reputation,mother,<15min,<2hrs,FALSE,no,yes,no,no,yes,yes,yes,no,excellent,normal,low,very low,low,normal,TRUE,Fail
+Gabriel Pereira,F,rural,>3,FALSE,2,2,services,services,reputation,mother,15-30min,>10hrs,FALSE,no,yes,yes,yes,no,yes,yes,no,excellent,normal,very high,very low,very low,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,4,at home,services,close,mother,<15min,5-10hrs,TRUE,no,yes,yes,no,yes,yes,yes,yes,good,high,normal,normal,high,excellent,TRUE,Fail
+Gabriel Pereira,F,urban,>3,TRUE,3,1,services,other,course,mother,<15min,2-5hrs,TRUE,no,yes,yes,no,yes,yes,yes,no,bad,normal,normal,low,low,good,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,3,teacher,other,other,mother,<15min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,yes,very bad,normal,low,very low,very low,very bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,1,at home,other,close,mother,15-30min,<2hrs,FALSE,no,yes,yes,no,yes,yes,no,no,good,normal,low,very low,high,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,4,3,teacher,other,reputation,mother,15-30min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,high,low,very low,very low,good,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,3,3,other,other,reputation,other,<15min,>10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,normal,normal,very low,low,normal,TRUE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,4,4,services,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,excellent,normal,very high,high,very high,normal,TRUE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,2,2,other,other,reputation,mother,<15min,2-5hrs,FALSE,yes,yes,yes,no,yes,yes,yes,no,normal,normal,high,very low,very low,good,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,2,services,other,close,mother,<15min,2-5hrs,TRUE,no,yes,yes,yes,yes,yes,yes,no,good,high,high,low,high,excellent,TRUE,Fail
+Gabriel Pereira,F,rural,<=3,FALSE,4,4,services,other,other,mother,<15min,<2hrs,FALSE,no,yes,yes,no,yes,yes,no,no,excellent,low,very low,very low,low,normal,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,3,2,other,other,reputation,mother,15-30min,2-5hrs,FALSE,no,no,yes,no,yes,yes,yes,no,good,high,high,very low,normal,very bad,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,3,other,other,reputation,mother,<15min,2-5hrs,TRUE,no,no,yes,no,yes,yes,yes,yes,normal,high,very high,low,high,very bad,TRUE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,3,3,services,health,close,father,<15min,2-5hrs,TRUE,no,yes,yes,no,yes,yes,yes,no,normal,low,high,low,high,good,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,3,at home,other,close,father,15-30min,<2hrs,FALSE,no,yes,yes,no,yes,yes,no,no,normal,normal,normal,very low,high,normal,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,2,at home,at home,course,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,normal,normal,very low,very low,good,FALSE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,2,1,at home,services,reputation,mother,15-30min,2-5hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,good,low,very high,very low,low,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,1,1,at home,other,reputation,mother,<15min,5-10hrs,TRUE,no,yes,no,yes,yes,yes,no,yes,good,normal,high,very low,very low,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,3,services,teacher,other,mother,<15min,2-5hrs,FALSE,yes,no,no,no,yes,yes,yes,no,bad,normal,very low,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,2,other,other,close,mother,15-30min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,normal,normal,normal,very high,very high,good,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,teacher,services,close,mother,<15min,5-10hrs,FALSE,no,yes,no,yes,no,yes,yes,no,excellent,normal,low,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,3,1,other,other,reputation,mother,<15min,2-5hrs,TRUE,no,no,no,yes,yes,yes,yes,yes,excellent,normal,normal,very low,very low,good,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,3,2,other,other,course,mother,<15min,2-5hrs,FALSE,no,no,no,yes,no,yes,yes,no,excellent,normal,high,very low,normal,normal,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,2,3,services,services,reputation,father,<15min,2-5hrs,FALSE,no,yes,yes,no,no,yes,yes,no,excellent,normal,normal,very low,normal,normal,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,2,1,at home,other,course,mother,>60min,2-5hrs,FALSE,yes,yes,yes,yes,yes,yes,yes,yes,good,normal,low,high,very high,normal,TRUE,Fail
+Gabriel Pereira,F,urban,>3,TRUE,2,1,other,other,course,mother,15-30min,5-10hrs,FALSE,no,no,no,yes,yes,yes,yes,yes,normal,low,normal,very low,low,normal,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,4,3,health,other,reputation,father,<15min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,yes,normal,low,normal,very low,low,normal,TRUE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,2,2,other,other,course,father,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,very high,low,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,teacher,teacher,reputation,mother,<15min,2-5hrs,FALSE,yes,yes,no,yes,yes,yes,yes,yes,good,very high,very high,very low,normal,bad,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,4,4,health,other,reputation,father,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,low,high,low,high,very bad,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,1,1,other,other,close,mother,15-30min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,normal,high,low,very low,very low,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,3,2,at home,other,reputation,mother,15-30min,5-10hrs,FALSE,no,no,no,yes,yes,yes,yes,yes,excellent,normal,normal,very low,normal,bad,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,2,2,other,other,close,father,<15min,2-5hrs,FALSE,no,no,yes,yes,no,yes,yes,yes,good,high,low,very high,very high,good,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,1,other,other,close,mother,<15min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,yes,good,very high,low,very low,very low,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,2,1,at home,services,course,mother,30-60min,2-5hrs,FALSE,no,no,no,yes,yes,yes,no,no,bad,very low,very low,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,2,other,services,reputation,father,<15min,2-5hrs,TRUE,no,no,no,no,yes,no,yes,no,excellent,very high,high,normal,very high,bad,FALSE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,4,3,health,other,course,mother,15-30min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,yes,bad,very high,very high,very low,high,excellent,TRUE,Pass
+Gabriel Pereira,M,rural,<=3,TRUE,4,4,teacher,other,course,mother,15-30min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,normal,normal,normal,low,normal,good,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,3,teacher,other,course,mother,<15min,<2hrs,FALSE,no,no,no,yes,no,yes,yes,no,excellent,high,very high,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,4,4,services,services,course,mother,<15min,<2hrs,FALSE,no,no,no,yes,yes,yes,yes,no,excellent,normal,low,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,1,other,other,course,other,15-30min,5-10hrs,FALSE,no,yes,yes,no,no,yes,yes,yes,good,high,high,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,2,1,other,other,course,mother,30-60min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,good,normal,normal,very low,very low,good,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,3,other,other,course,father,15-30min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,excellent,low,low,very low,very low,bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,1,services,services,other,mother,<15min,<2hrs,TRUE,no,no,no,no,no,no,yes,yes,excellent,high,very high,very high,very high,very bad,TRUE,Fail
+Gabriel Pereira,M,rural,<=3,FALSE,3,3,other,services,course,mother,<15min,2-5hrs,TRUE,no,yes,no,no,yes,yes,yes,yes,good,normal,normal,very low,normal,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,0,2,other,other,other,mother,<15min,<2hrs,FALSE,no,no,yes,no,no,yes,yes,no,good,normal,low,low,high,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,2,services,other,course,mother,15-30min,<2hrs,TRUE,no,no,no,no,yes,no,yes,no,good,high,very high,low,high,excellent,FALSE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,3,3,at home,other,reputation,other,30-60min,2-5hrs,FALSE,yes,yes,no,no,no,yes,yes,no,excellent,normal,normal,very low,normal,bad,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,1,services,services,other,mother,<15min,<2hrs,TRUE,no,no,no,no,no,no,yes,no,normal,low,very high,low,very high,excellent,FALSE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,2,1,other,other,course,mother,15-30min,<2hrs,FALSE,no,no,no,yes,no,yes,no,no,normal,normal,low,very low,normal,normal,FALSE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,2,1,other,other,course,mother,<15min,<2hrs,FALSE,no,no,no,no,no,yes,yes,no,good,high,low,low,high,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,1,1,health,other,course,mother,15-30min,<2hrs,TRUE,no,yes,no,yes,yes,yes,yes,no,good,high,high,very low,low,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,4,2,teacher,services,reputation,mother,<15min,>10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,low,normal,very low,very low,good,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,TRUE,4,3,services,at home,reputation,mother,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,yes,no,good,normal,very low,very low,very low,very bad,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,1,other,other,close,mother,<15min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,no,excellent,low,high,very low,low,good,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,2,2,services,services,course,father,<15min,>10hrs,FALSE,no,no,yes,yes,yes,yes,yes,yes,normal,high,very low,very low,very low,bad,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,3,services,other,close,father,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,normal,very low,low,very low,normal,bad,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,3,teacher,other,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,no,yes,yes,no,good,normal,low,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,3,2,other,other,course,mother,<15min,5-10hrs,FALSE,no,no,no,yes,no,yes,no,no,excellent,normal,low,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,3,other,other,close,mother,<15min,5-10hrs,FALSE,no,no,no,yes,no,yes,no,no,normal,low,normal,very low,very low,good,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,2,at home,services,close,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,normal,normal,very low,very low,normal,FALSE,Fail
+Gabriel Pereira,M,rural,<=3,TRUE,3,4,other,other,reputation,mother,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,low,very high,normal,high,very bad,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,1,services,other,other,mother,<15min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,yes,excellent,high,high,normal,high,excellent,FALSE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,4,4,teacher,other,reputation,mother,15-30min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,good,normal,high,low,low,good,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,2,health,other,reputation,father,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,excellent,high,very high,very low,normal,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,2,1,other,other,reputation,mother,15-30min,2-5hrs,FALSE,no,yes,no,no,yes,no,yes,yes,good,normal,very high,very low,low,normal,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,3,3,other,services,close,other,<15min,2-5hrs,TRUE,no,yes,yes,yes,yes,yes,yes,no,good,normal,very high,normal,normal,excellent,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,3,other,services,reputation,father,<15min,>10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,very high,very high,very low,normal,bad,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,1,1,other,other,close,mother,15-30min,2-5hrs,FALSE,no,yes,yes,no,no,yes,no,no,good,high,normal,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,1,2,at home,at home,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,no,yes,no,yes,normal,very high,low,low,low,very bad,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,4,at home,health,reputation,mother,15-30min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,good,normal,normal,very low,very low,very bad,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,2,2,services,other,course,mother,15-30min,2-5hrs,FALSE,yes,yes,yes,no,yes,yes,yes,yes,good,high,high,low,normal,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,>3,TRUE,3,2,other,services,close,mother,15-30min,2-5hrs,FALSE,no,no,no,no,no,no,yes,yes,good,very low,very low,very low,very low,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,>3,FALSE,4,4,teacher,services,close,mother,15-30min,<2hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,normal,low,high,very low,high,normal,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,4,health,health,reputation,father,<15min,2-5hrs,TRUE,yes,yes,no,yes,yes,yes,yes,yes,bad,high,high,very low,very low,good,TRUE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,4,3,teacher,services,course,mother,15-30min,<2hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,good,low,normal,very low,low,very bad,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,TRUE,4,1,services,other,close,mother,15-30min,<2hrs,FALSE,no,no,yes,yes,yes,yes,yes,yes,good,very high,high,low,high,excellent,TRUE,Fail
+Gabriel Pereira,M,urban,<=3,TRUE,3,2,teacher,services,close,mother,<15min,<2hrs,TRUE,no,no,no,no,yes,yes,yes,no,good,high,high,normal,high,normal,TRUE,Pass
+Gabriel Pereira,F,rural,<=3,FALSE,1,1,at home,other,reputation,mother,15-30min,>10hrs,FALSE,no,yes,yes,yes,yes,yes,no,no,excellent,low,low,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,1,other,other,close,mother,15-30min,2-5hrs,FALSE,yes,no,no,yes,yes,yes,yes,no,excellent,high,high,very low,very low,good,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,2,other,other,course,mother,<15min,2-5hrs,FALSE,no,yes,no,no,no,yes,yes,no,excellent,high,very high,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,1,1,other,other,reputation,father,<15min,2-5hrs,FALSE,no,no,yes,no,no,yes,yes,no,good,normal,normal,very low,low,good,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,2,at home,at home,other,mother,<15min,5-10hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,normal,very low,low,bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,1,services,teacher,reputation,mother,<15min,5-10hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,normal,very low,very low,normal,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,2,1,services,services,reputation,mother,<15min,5-10hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,good,low,high,very low,normal,bad,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,TRUE,4,4,teacher,teacher,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,high,normal,very low,very low,bad,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,2,teacher,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,normal,low,very low,high,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,3,health,services,reputation,mother,<15min,5-10hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,low,low,very low,low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,2,1,services,at home,reputation,mother,<15min,2-5hrs,TRUE,no,no,no,no,yes,yes,yes,yes,excellent,high,normal,very low,very low,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,<=3,FALSE,3,1,services,other,reputation,mother,15-30min,>10hrs,FALSE,no,yes,yes,no,yes,yes,no,no,normal,very low,low,very low,very low,normal,TRUE,Pass
+Gabriel Pereira,M,rural,<=3,FALSE,3,2,services,other,reputation,mother,15-30min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,high,low,very low,very low,good,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,3,health,other,close,mother,<15min,<2hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,high,normal,very low,normal,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,health,other,reputation,other,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,bad,normal,high,low,normal,bad,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,4,3,other,other,close,other,15-30min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,good,high,very high,very low,low,bad,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,3,other,other,reputation,father,<15min,>10hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,normal,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,4,teacher,teacher,close,mother,<15min,<2hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,very bad,high,low,low,low,very bad,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,TRUE,4,4,health,other,close,mother,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,yes,yes,good,low,high,very low,very low,good,TRUE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,4,4,other,teacher,close,father,15-30min,<2hrs,FALSE,no,no,yes,no,yes,yes,yes,no,good,very low,very low,low,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,2,other,other,reputation,mother,15-30min,5-10hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,normal,very low,very low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,2,health,health,reputation,father,<15min,>10hrs,FALSE,no,yes,yes,yes,no,yes,yes,no,excellent,low,low,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,3,other,other,close,other,<15min,2-5hrs,TRUE,no,yes,no,yes,yes,yes,yes,yes,good,high,high,very low,very low,normal,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,4,services,at home,reputation,other,<15min,2-5hrs,TRUE,no,yes,yes,yes,yes,yes,yes,no,good,high,normal,very low,very low,normal,TRUE,Pass
+Gabriel Pereira,M,urban,>3,TRUE,3,2,services,other,course,other,<15min,<2hrs,FALSE,no,no,no,yes,yes,yes,no,no,excellent,very high,normal,very low,very low,excellent,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,teacher,services,reputation,other,15-30min,<2hrs,TRUE,no,yes,yes,no,yes,yes,yes,yes,good,normal,high,very low,very low,good,TRUE,Fail
+Gabriel Pereira,M,rural,>3,FALSE,3,3,other,services,reputation,father,<15min,2-5hrs,TRUE,no,no,no,yes,yes,yes,no,yes,good,very high,normal,very low,low,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,1,1,at home,other,reputation,other,<15min,2-5hrs,TRUE,yes,yes,no,yes,no,yes,yes,no,good,high,normal,very low,normal,normal,TRUE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,1,2,services,services,close,other,<15min,2-5hrs,TRUE,no,no,no,yes,no,yes,no,yes,good,low,high,low,low,normal,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,1,at home,other,other,other,30-60min,2-5hrs,FALSE,no,yes,no,no,yes,no,yes,yes,normal,high,very low,very low,very low,bad,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,1,2,other,services,course,other,<15min,2-5hrs,TRUE,no,no,no,no,no,yes,yes,no,good,very high,low,low,low,good,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,3,2,services,other,reputation,other,15-30min,2-5hrs,TRUE,no,yes,yes,no,no,yes,yes,yes,good,low,low,very low,low,very bad,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,1,1,at home,health,close,other,<15min,5-10hrs,TRUE,no,no,no,no,no,yes,yes,yes,good,very low,low,very low,very low,normal,TRUE,Pass
+Gabriel Pereira,F,rural,>3,FALSE,2,3,other,other,reputation,other,<15min,5-10hrs,TRUE,no,no,no,no,yes,yes,yes,yes,good,very low,low,very low,very low,normal,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,1,services,other,course,mother,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,normal,normal,very low,low,very bad,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,3,other,other,course,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,normal,high,very low,very low,excellent,TRUE,Fail
+Gabriel Pereira,F,rural,>3,FALSE,3,4,at home,services,course,father,<15min,5-10hrs,FALSE,no,yes,yes,yes,no,yes,yes,no,good,normal,high,low,very high,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,teacher,other,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,high,high,normal,normal,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,4,3,services,services,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,excellent,low,low,very low,low,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,2,other,other,course,mother,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,no,yes,good,low,low,very low,very low,normal,TRUE,Fail
+Gabriel Pereira,F,rural,<=3,FALSE,2,2,services,services,course,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,normal,normal,low,low,low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,1,services,services,course,father,<15min,5-10hrs,FALSE,no,yes,no,no,no,yes,yes,no,normal,high,normal,low,normal,excellent,FALSE,Pass
+Gabriel Pereira,F,urban,<=3,FALSE,0,2,at home,at home,close,father,15-30min,5-10hrs,FALSE,no,no,no,no,yes,yes,yes,no,normal,normal,normal,low,normal,bad,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,other,other,course,mother,<15min,5-10hrs,FALSE,no,no,no,yes,yes,yes,yes,no,good,normal,normal,low,low,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,3,3,other,services,reputation,mother,<15min,<2hrs,FALSE,no,no,no,yes,no,yes,yes,no,good,normal,very high,normal,very high,excellent,FALSE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,2,2,services,other,course,mother,>60min,<2hrs,FALSE,no,yes,no,no,yes,yes,yes,no,good,high,very high,very high,very high,good,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,4,4,teacher,services,course,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,excellent,high,high,very low,normal,good,TRUE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,4,teacher,teacher,course,mother,15-30min,5-10hrs,FALSE,no,yes,yes,no,no,yes,yes,yes,good,normal,normal,very low,low,good,FALSE,Pass
+Gabriel Pereira,M,urban,<=3,FALSE,2,2,other,other,course,mother,<15min,>10hrs,FALSE,no,yes,no,yes,yes,yes,yes,no,good,very high,very high,low,high,excellent,FALSE,Fail
+Gabriel Pereira,F,rural,>3,FALSE,2,4,at home,other,course,father,<15min,5-10hrs,FALSE,no,yes,no,no,yes,yes,yes,yes,good,high,normal,very low,very low,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,3,services,services,close,mother,<15min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,no,excellent,normal,high,very low,very low,good,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,2,2,other,other,close,other,<15min,2-5hrs,FALSE,no,no,no,yes,no,yes,yes,yes,good,normal,normal,very low,very low,bad,FALSE,Fail
+Gabriel Pereira,F,rural,>3,FALSE,2,2,at home,other,course,mother,15-30min,>10hrs,FALSE,no,no,no,yes,yes,yes,no,no,good,high,high,very low,very low,good,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,3,4,services,other,course,mother,<15min,5-10hrs,FALSE,no,no,no,no,yes,yes,yes,no,good,high,very high,very low,normal,excellent,TRUE,Pass
+Gabriel Pereira,F,rural,>3,TRUE,3,1,services,at home,close,other,<15min,5-10hrs,TRUE,no,no,yes,no,yes,yes,no,no,excellent,high,normal,very low,low,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,2,other,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,good,normal,low,low,normal,bad,FALSE,Fail
+Gabriel Pereira,F,urban,<=3,FALSE,3,3,services,services,close,mother,<15min,>10hrs,FALSE,no,yes,no,no,yes,yes,yes,no,excellent,normal,normal,very low,very low,very bad,TRUE,Pass
+Gabriel Pereira,F,rural,>3,TRUE,3,2,other,other,close,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,normal,low,normal,bad,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,2,1,services,services,close,other,<15min,5-10hrs,TRUE,no,no,yes,yes,yes,yes,yes,yes,good,normal,high,very low,normal,normal,FALSE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,4,teacher,services,close,father,<15min,2-5hrs,TRUE,no,yes,no,yes,yes,yes,yes,no,good,normal,normal,low,low,bad,FALSE,Fail
+Gabriel Pereira,M,urban,<=3,FALSE,3,4,services,other,close,mother,<15min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,yes,good,normal,normal,very low,normal,excellent,TRUE,Pass
+Gabriel Pereira,F,urban,>3,TRUE,2,2,at home,at home,close,father,<15min,2-5hrs,TRUE,no,yes,no,no,yes,yes,yes,yes,normal,normal,very low,very low,low,good,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,2,3,at home,other,course,mother,<15min,5-10hrs,FALSE,no,yes,no,no,yes,yes,yes,no,good,normal,normal,very low,low,normal,FALSE,Pass
+Gabriel Pereira,F,urban,>3,FALSE,3,2,other,services,other,mother,<15min,5-10hrs,FALSE,no,no,no,no,yes,yes,yes,yes,excellent,high,normal,low,normal,very bad,TRUE,Pass
+Gabriel Pereira,M,rural,>3,FALSE,4,3,teacher,services,course,mother,<15min,5-10hrs,FALSE,no,no,no,no,yes,yes,yes,yes,excellent,normal,low,very low,low,good,TRUE,Pass
+Gabriel Pereira,M,urban,>3,FALSE,4,3,teacher,other,course,mother,<15min,5-10hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,excellent,high,very high,low,normal,excellent,FALSE,Fail
+Gabriel Pereira,F,urban,>3,FALSE,4,3,health,other,reputation,mother,<15min,5-10hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,high,normal,very low,normal,good,FALSE,Pass
+Mousinho do Silveira,M,rural,>3,FALSE,3,2,other,other,course,mother,15-30min,<2hrs,TRUE,no,yes,no,no,no,yes,yes,no,bad,very high,very high,very high,very high,excellent,TRUE,Pass
+Mousinho do Silveira,M,rural,>3,FALSE,1,1,other,services,close,other,30-60min,2-5hrs,TRUE,no,no,no,no,yes,yes,yes,no,excellent,high,high,normal,normal,bad,TRUE,Fail
+Mousinho do Silveira,M,urban,>3,FALSE,3,3,health,other,course,mother,15-30min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,very high,high,low,normal,normal,FALSE,Pass
+Mousinho do Silveira,M,urban,<=3,FALSE,1,3,at home,services,course,mother,<15min,<2hrs,TRUE,no,no,no,no,yes,no,yes,yes,good,normal,normal,low,normal,normal,TRUE,Fail
+Mousinho do Silveira,M,rural,>3,FALSE,1,1,other,other,close,other,30-60min,<2hrs,TRUE,no,yes,no,no,yes,yes,yes,no,good,high,high,normal,normal,excellent,FALSE,Fail
+Mousinho do Silveira,M,rural,>3,FALSE,4,3,services,other,close,mother,15-30min,2-5hrs,FALSE,no,yes,yes,yes,no,yes,yes,yes,good,very high,very high,very low,normal,bad,FALSE,Pass
+Mousinho do Silveira,F,urban,>3,FALSE,3,3,services,services,course,father,<15min,2-5hrs,FALSE,no,yes,no,no,yes,yes,no,yes,excellent,normal,high,very low,very low,excellent,FALSE,Fail
+Mousinho do Silveira,F,rural,>3,FALSE,4,4,teacher,services,other,father,15-30min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,no,good,normal,normal,very low,low,excellent,FALSE,Pass
+Mousinho do Silveira,F,urban,<=3,TRUE,3,2,services,other,reputation,mother,15-30min,2-5hrs,FALSE,no,no,no,no,yes,yes,no,yes,very bad,low,normal,very low,low,excellent,FALSE,Pass
+Mousinho do Silveira,M,urban,<=3,FALSE,1,1,other,services,close,father,15-30min,<2hrs,FALSE,no,no,no,no,no,yes,yes,yes,normal,normal,low,very low,low,normal,FALSE,Pass
+Mousinho do Silveira,F,urban,<=3,FALSE,1,1,at home,services,course,father,15-30min,5-10hrs,FALSE,no,no,no,no,yes,yes,yes,no,excellent,normal,low,very low,very low,good,FALSE,Pass
+Mousinho do Silveira,F,rural,<=3,TRUE,1,4,at home,other,course,mother,30-60min,2-5hrs,FALSE,no,no,no,no,yes,yes,no,yes,good,normal,high,very low,high,excellent,FALSE,Pass
+Mousinho do Silveira,M,rural,<=3,FALSE,1,1,at home,other,other,mother,15-30min,2-5hrs,TRUE,no,no,no,yes,no,no,no,no,good,high,normal,low,normal,excellent,FALSE,Pass
+Mousinho do Silveira,F,urban,>3,FALSE,3,3,services,services,other,mother,15-30min,2-5hrs,FALSE,no,yes,no,no,yes,yes,yes,yes,good,normal,low,very low,normal,normal,FALSE,Pass
+Mousinho do Silveira,F,urban,<=3,FALSE,4,4,at home,at home,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,bad,normal,high,very low,very low,very bad,FALSE,Pass
+Mousinho do Silveira,F,rural,>3,FALSE,1,2,other,services,course,father,15-30min,2-5hrs,FALSE,no,no,no,no,no,yes,no,no,normal,low,low,very low,low,normal,FALSE,Pass
+Mousinho do Silveira,M,rural,>3,FALSE,1,3,at home,other,course,mother,15-30min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,no,no,normal,normal,high,low,high,normal,FALSE,Pass
+Mousinho do Silveira,M,urban,<=3,FALSE,4,4,teacher,services,other,mother,15-30min,5-10hrs,FALSE,no,no,yes,no,yes,yes,yes,yes,good,low,low,low,low,excellent,FALSE,Pass
+Mousinho do Silveira,F,rural,>3,FALSE,1,1,other,services,reputation,mother,30-60min,<2hrs,TRUE,no,yes,yes,no,yes,yes,yes,yes,excellent,low,very low,very low,low,very bad,FALSE,Fail
+Mousinho do Silveira,F,urban,>3,FALSE,2,3,at home,services,course,father,15-30min,<2hrs,FALSE,no,yes,yes,no,yes,yes,yes,yes,excellent,low,normal,very low,low,good,FALSE,Pass
+Mousinho do Silveira,F,rural,>3,FALSE,4,4,other,teacher,other,father,30-60min,2-5hrs,FALSE,no,yes,yes,no,no,yes,yes,yes,normal,low,low,high,low,excellent,TRUE,Pass
+Mousinho do Silveira,F,urban,<=3,FALSE,3,2,services,services,close,other,15-30min,2-5hrs,TRUE,no,no,no,yes,yes,yes,no,yes,normal,low,low,very low,very low,normal,FALSE,Fail
+Mousinho do Silveira,M,rural,<=3,FALSE,1,2,at home,services,other,father,30-60min,<2hrs,FALSE,no,yes,yes,yes,yes,no,yes,yes,good,normal,normal,low,normal,normal,FALSE,Pass
+Mousinho do Silveira,F,urban,>3,FALSE,2,2,other,at home,close,mother,<15min,5-10hrs,FALSE,no,no,no,yes,yes,yes,no,yes,normal,high,normal,very low,very low,normal,TRUE,Pass
+Mousinho do Silveira,F,rural,>3,FALSE,1,2,other,other,course,mother,<15min,<2hrs,FALSE,no,no,no,yes,yes,yes,yes,no,normal,very high,very high,very low,normal,very bad,TRUE,Fail
+Mousinho do Silveira,F,rural,<=3,FALSE,4,4,other,other,reputation,mother,15-30min,5-10hrs,FALSE,no,no,no,no,yes,yes,yes,no,excellent,high,high,very low,very low,very bad,FALSE,Pass
+Mousinho do Silveira,F,rural,>3,FALSE,1,1,other,other,close,mother,>60min,5-10hrs,FALSE,no,no,no,no,yes,yes,yes,no,good,normal,low,very low,low,good,FALSE,Pass
+Mousinho do Silveira,F,urban,>3,FALSE,4,2,health,other,course,other,15-30min,5-10hrs,TRUE,no,yes,yes,no,no,yes,yes,yes,excellent,high,normal,very low,very low,normal,FALSE,Pass
+Mousinho do Silveira,F,rural,<=3,FALSE,4,4,teacher,services,course,mother,<15min,2-5hrs,FALSE,no,no,yes,yes,yes,yes,yes,no,excellent,high,normal,normal,high,bad,FALSE,Pass
+Mousinho do Silveira,F,urban,>3,FALSE,3,3,other,other,close,mother,<15min,2-5hrs,FALSE,no,no,yes,no,yes,yes,yes,yes,good,very low,normal,very low,low,very bad,FALSE,Pass
+Mousinho do Silveira,F,rural,>3,FALSE,3,1,at home,other,reputation,mother,<15min,2-5hrs,FALSE,no,yes,yes,yes,no,yes,yes,no,good,very high,high,low,normal,very bad,TRUE,Pass
+Mousinho do Silveira,M,urban,>3,FALSE,4,4,teacher,teacher,close,father,<15min,2-5hrs,FALSE,no,no,yes,yes,no,yes,yes,no,normal,low,high,very low,high,bad,FALSE,Pass
+Mousinho do Silveira,M,rural,>3,FALSE,2,1,other,other,other,mother,15-30min,<2hrs,FALSE,no,no,no,yes,no,yes,yes,yes,good,high,normal,very low,normal,excellent,TRUE,Fail
+Mousinho do Silveira,M,urban,>3,FALSE,2,3,other,services,close,father,15-30min,2-5hrs,FALSE,no,no,no,yes,yes,yes,yes,no,good,high,normal,very low,very low,normal,FALSE,Pass
+Mousinho do Silveira,M,rural,>3,FALSE,1,1,other,services,other,mother,15-30min,<2hrs,TRUE,no,no,no,no,yes,yes,no,no,good,normal,low,very low,normal,excellent,FALSE,Fail
+Mousinho do Silveira,M,rural,>3,FALSE,4,2,other,other,close,father,15-30min,<2hrs,TRUE,no,no,yes,no,yes,yes,no,no,excellent,high,normal,high,normal,normal,TRUE,Fail
+Mousinho do Silveira,F,rural,>3,FALSE,2,2,at home,other,other,mother,15-30min,5-10hrs,FALSE,no,no,yes,no,yes,yes,no,no,excellent,normal,normal,very low,normal,good,FALSE,Pass
+Mousinho do Silveira,F,rural,>3,FALSE,4,4,teacher,at home,reputation,mother,30-60min,<2hrs,FALSE,no,yes,yes,yes,yes,yes,yes,yes,good,high,normal,low,low,excellent,TRUE,Fail
+Mousinho do Silveira,F,rural,>3,FALSE,2,3,services,other,course,mother,<15min,5-10hrs,TRUE,no,no,no,yes,no,yes,yes,no,excellent,high,low,very low,low,excellent,FALSE,Fail
+Mousinho do Silveira,F,urban,<=3,FALSE,3,1,teacher,services,course,mother,<15min,2-5hrs,FALSE,no,yes,yes,no,yes,yes,yes,no,good,normal,high,very low,very low,very bad,FALSE,Fail
+Mousinho do Silveira,F,urban,>3,FALSE,1,1,other,other,course,mother,15-30min,2-5hrs,TRUE,no,no,no,yes,yes,yes,no,no,very bad,very low,very low,very low,very low,excellent,FALSE,Fail
+Mousinho do Silveira,M,urban,<=3,TRUE,2,2,services,services,course,other,<15min,2-5hrs,TRUE,no,yes,yes,no,yes,yes,no,no,excellent,very high,high,high,very high,good,TRUE,Fail
+Mousinho do Silveira,M,urban,<=3,FALSE,3,1,services,services,course,mother,15-30min,<2hrs,FALSE,no,no,no,no,no,yes,yes,no,bad,high,very high,normal,high,bad,FALSE,Pass
+Mousinho do Silveira,M,rural,>3,FALSE,1,1,other,other,course,other,<15min,<2hrs,TRUE,no,no,no,no,no,yes,no,no,excellent,very high,normal,normal,normal,normal,FALSE,Fail
+Mousinho do Silveira,M,rural,<=3,FALSE,3,2,services,other,course,mother,30-60min,<2hrs,FALSE,no,no,no,no,no,yes,yes,no,good,high,very low,normal,high,excellent,FALSE,Pass
+Mousinho do Silveira,M,urban,<=3,FALSE,1,1,other,at home,course,father,<15min,<2hrs,FALSE,no,no,no,no,yes,yes,yes,no,normal,low,normal,normal,normal,excellent,TRUE,Fail
